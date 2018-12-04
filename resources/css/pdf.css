@@ -1,0 +1,16 @@
+
+
+.invoice td{}
+.maintab { border: solid 1px #74859A; }
+.maintab td{}
+.bd{ border: solid 1px #74859A; padding:10px;  }
+.pd20 td{padding-left: 20px;}
+
+.product td{ border: solid 1px #74859A; padding: 5px;}
+.product tr{  display: block;}
+.product{border:solid 1px #74859A;}
+.seperator{border-right: solid 1px #74859A !important;}
+.bdn tr, .bdn td{border:none;}
+.bdn{ border: none; }
+label{font-weight: bold; padding-right: 5px;}
+.cntr{text-align: center;}

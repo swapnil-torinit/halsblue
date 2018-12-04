@@ -1,0 +1,9 @@
+
+.error{
+    color:red;
+    font-size:smaller;
+}
+.dn{display: none;}
+.table-striped td{text-align: center;}
+#inv_status{color: #f00;}
+.skin-blue .main-header .logo{background: #fff;}

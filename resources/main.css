@@ -1,0 +1,40 @@
+table 
+{
+	color: black;
+	padding:0;
+	border: 1px solid black; 
+	border-collapse: collapse;
+    width: 100%;
+}
+.gst-row
+{
+	padding: 0;
+	margin-top: 0;
+	font-size: 15px;
+	padding-top: -48px;
+}
+.gst-row h5
+{
+	color: red
+}
+.transs
+{
+	font-size: 12px;
+}
+.main-tab td
+{
+	font-weight: bold;
+	text-align: center;
+}
+.test
+{
+	line-height:20px;
+	height:20px;
+	text-align:center;
+}
+.ern{
+	margin:0;
+	padding-top: 0;
+	padding-top: -25px;
+}
+
